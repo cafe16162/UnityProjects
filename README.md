@@ -1,8 +1,8 @@
 # UnityProjects
-なんか試す用リポジトリ
+なんか試す用リポジトリ（備忘録的な扱い）
 
 ## EffectsComponentTest  
-LineRendererとTrailRendererを試すプロジェクト  
+*Line Renderer* と *Trail Renderer* を試すプロジェクト  
 * line.unity  
 画面上をドラッグすることでラインを描画できる。  
 * trail.unity  
