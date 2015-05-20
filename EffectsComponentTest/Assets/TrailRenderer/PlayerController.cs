@@ -1,10 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+// trail.unity
+// プレイヤーの移動
 public class PlayerController : MonoBehaviour
 {
 	[SerializeField]
-	float speed = 5f;
+	float speed = 5f;   // 移動の速さ
 
 	Vector2 dv;
 

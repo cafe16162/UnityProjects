@@ -366,8 +366,8 @@ LineRenderer:
   m_Positions:
   - {x: 0, y: 0, z: 0}
   m_Parameters:
-    startWidth: .5
-    endWidth: .5
+    startWidth: .100000001
+    endWidth: .100000001
     m_StartColor:
       serializedVersion: 2
       rgba: 2516647680
@@ -399,7 +399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 1673962895}
-  isActive: 1
+  minLength: .100000001
 --- !u!1 &1746759912
 GameObject:
   m_ObjectHideFlags: 0
